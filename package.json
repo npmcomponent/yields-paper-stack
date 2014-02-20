@@ -1,0 +1,15 @@
+{
+  "name": "yields-paper-stack",
+  "description": "paper stack effect.",
+  "version": "0.0.1",
+  "keywords": [
+    "paper",
+    "stack",
+    "css"
+  ],
+  "styles": [
+    "paper-stack.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
